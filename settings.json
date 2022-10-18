@@ -1,0 +1,12 @@
+{
+  "capmonsterKey": "Put your capmonster key ( not necessary )",
+  "botToken": "Put your Bot Token here",
+  "guildID": "Server ID",
+  "LogsChannelID": "Channel ID",
+  "ownerid": [
+    "Put the ID of the owner(s) here"
+  ],
+  "staffid": [
+    "Put ID of a staff ( not necessary )"
+  ]
+}
